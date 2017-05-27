@@ -15,8 +15,8 @@ define('ADMIN_SUBDIR','admin/');
 define('JS_URL','js/');
 define('CSS_URL','css/');
 
-define('WEBSITE_URL','http://'.$host.'/'.SUBDIR);
-define('WEBSITE_ADMIN_URL','http://'.$host.'/'.SUBDIR.ADMIN_SUBDIR);
+define('WEBSITE_URL','https://'.$host.'/'.SUBDIR);
+define('WEBSITE_ADMIN_URL','https://'.$host.'/'.SUBDIR.ADMIN_SUBDIR);
 
 
 
