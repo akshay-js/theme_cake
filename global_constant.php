@@ -1,7 +1,7 @@
 <?php 
 
 // D:\xampp\htdocs\casino\bin>cake bake all Master.Masters
-define('SUBDIR','cake_cms/');
+define('SUBDIR','');
 define('SUBDIR_CSS_PATH','');
 
 
