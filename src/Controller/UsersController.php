@@ -19,7 +19,7 @@ class UsersController extends AppController
 	public function initialize()
     {//sleep(100);
       parent::initialize();
-      $this->loadComponent('Captcha');
+      //$this->loadComponent('Captcha');
       $this->loadComponent('Cookie');
 	  
 	 /*   $this->loadComponent('Cache.Cache', [
