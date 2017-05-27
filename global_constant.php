@@ -7,8 +7,8 @@ define('SUBDIR_CSS_PATH','');
 
 define('ADMIN_SUBDIR','admin/');
 
-// $host = $_SERVER['HTTP_HOST'];
-$host = 'localhost';
+ $host = $_SERVER['HTTP_HOST'];
+//$host = 'localhost';
 
 
 
